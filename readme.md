@@ -1,0 +1,2 @@
+#Henry's server management stuff
+I'm not really sure how you can utilize this for your own server, maybe for inspiration, however it rely's on couchdb. I'm sure it could probably be modified for other methods of operation.

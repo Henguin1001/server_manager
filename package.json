@@ -2,6 +2,7 @@
   "name": "server_manager",
   "version": "0.0.0",
   "description": "to manage the server of Henry",
+  "repository":"https://github.com/Henguin1001/server_manager",
   "main": "index.js",
   "dependencies": {
     "bouncy": "~3.2.1",
